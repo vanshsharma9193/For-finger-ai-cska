@@ -1,0 +1,24 @@
+{
+  "name": "for-finger-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FOR FINGER - Advanced Forensic Biometric Fingerprint Analysis Full Stack App",
+  "scripts": {
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend",
+    "start:backend": "npm start --prefix backend",
+    "build:frontend": "npm run build --prefix frontend",
+    "install:all": "npm install --prefix frontend && npm install --prefix backend"
+  },
+  "keywords": [
+    "biometrics",
+    "forensics",
+    "fingerprint",
+    "react",
+    "express",
+    "full-stack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+

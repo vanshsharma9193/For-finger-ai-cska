@@ -1,0 +1,11 @@
+[
+  {
+    "id": "d99b90fb-0d70-4a15-9894-77421d09e9de",
+    "transmissionId": "NODE-217015",
+    "identity": "Agent Smith",
+    "email": "agent@matrix.io",
+    "message": "Encrypted payload",
+    "packetHash": "0x84b90a1cdfc0d554",
+    "receivedAt": "2026-11-06T11:34:24.511Z"
+  }
+]

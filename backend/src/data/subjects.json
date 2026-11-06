@@ -1,0 +1,43 @@
+[
+  {
+    "id": "SUB-8421-B",
+    "subjectName": "SUBJECT #8421-B",
+    "classification": "Class A Minutiae Core",
+    "ridgePattern": "Whorl - Double Loop",
+    "jurisdiction": "Interpol Lyon / Node-09",
+    "clearanceLevel": "Level 4",
+    "minutiaeCount": 89,
+    "confidenceBase": 99.8
+  },
+  {
+    "id": "SUB-1092-A",
+    "subjectName": "SUBJECT #1092-A",
+    "classification": "Class B Minutiae Core",
+    "ridgePattern": "Ulnar Loop",
+    "jurisdiction": "FBI CJIS Division / Clarksburg",
+    "clearanceLevel": "Level 3",
+    "minutiaeCount": 78,
+    "confidenceBase": 98.5
+  },
+  {
+    "id": "SUB-7734-X",
+    "subjectName": "SUBJECT #7734-X",
+    "classification": "Class S Special Operative",
+    "ridgePattern": "Tented Arch",
+    "jurisdiction": "Global Cyber Forensics Unit",
+    "clearanceLevel": "Level 5 - Maximum",
+    "minutiaeCount": 94,
+    "confidenceBase": 100.0
+  },
+  {
+    "id": "SUB-2291-C",
+    "subjectName": "SUBJECT #2291-C",
+    "classification": "Class C Minutiae Core",
+    "ridgePattern": "Plain Arch",
+    "jurisdiction": "Tokyo Metropolitan Cyber Division",
+    "clearanceLevel": "Level 2",
+    "minutiaeCount": 72,
+    "confidenceBase": 99.2
+  }
+]
+
